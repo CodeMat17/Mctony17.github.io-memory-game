@@ -6,3 +6,6 @@ Click on the the closed cards to match two with same icon
 
 ## NB
 Memory Game is Udacity's Front End nanodegree project to test students on what they have learnt on the second phase of the course.
+
+### Link
+ https://mctony17.github.io/Mctony17.github.io-memory-game/.
